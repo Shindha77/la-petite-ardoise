@@ -1,0 +1,28 @@
+.bg-color {
+  background-color: rgb(218, 200, 181);
+}
+
+.d-flex-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+li {
+    display: inline;
+    padding-right: 20px;
+}
+
+.font-header {
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  font-size: 45px;
+  text-transform: capitalize;
+}
+
+.lien { 
+  color: black; 
+} 
+
+a:hover {
+  color: white;
+  font-size: larger;
+}
